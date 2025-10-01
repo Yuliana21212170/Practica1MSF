@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB; SPYDER
+message: lenguaje m; phyton
+type: software
+authors:
+  - given-names: Jocelyn Yuliana
+    family-names: Navarrete Avalos
+    email: l21212170@tectijuana.edu.mx
+    affiliation: TecNM-ITT
+repository-code: 'https://github.com/Yuliana21212170/Practica0MSF'
+keywords:
+  - Circuito RLC
+  - Controlador PID
+  - Sistema Respiratorio
+  - Modelo matemático
+  - Simulaciones numéricas
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-09-19'
