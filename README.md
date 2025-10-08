@@ -1,4 +1,4 @@
-[README (1) (3).md](https://github.com/user-attachments/files/22760873/README.1.3.md)
+
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Yuliana21212170/Practica1MSF)
 # Práctica 1: Diseño de controladores
 
